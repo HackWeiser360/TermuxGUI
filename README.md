@@ -1,5 +1,5 @@
 # Termux-GUI
-![ScreenShot](Screenshot_20201219-165311~2.png)
+![ScreenShot](Screenshot_20201219-165311~3.png)
 Use Termux in GUI mode using XFCE environment
 
 
